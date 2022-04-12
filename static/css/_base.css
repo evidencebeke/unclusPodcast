@@ -1,0 +1,10 @@
+
+.logo{
+    max-width: 200px;
+}
+.navbar{
+    z-index: 99;
+}
+.poster-img{
+    width: 90%;
+}
